@@ -322,7 +322,7 @@ $members = $_SESSION['members'];
 
     <div class="brand">
         <span class="brand-mark small">TS</span>
-        <span>Toko Sepatu</span>
+        <span>HOTIC Shoe Store</span>
     </div>
 
     <nav>
